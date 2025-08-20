@@ -1,3 +1,5 @@
 apples
 berries
 cherries
+apple is red
+banana is yellow
