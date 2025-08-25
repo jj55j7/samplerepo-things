@@ -4,3 +4,4 @@ white
 sky is blue
 grass is green
 this is a conflicting line
+resolve merge conflict
