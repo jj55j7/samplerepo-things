@@ -3,3 +3,4 @@ red
 white
 sky is blue
 grass is green
+this is a conflicting line
